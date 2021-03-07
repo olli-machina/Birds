@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BirdAdventures.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{73F87A69-092D-4729-A440-B983D799E8F5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BirdAdventures.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BirdAdventuresEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C2682678-51B0-470F-A36D-884ED86FFFF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BirdAdventures">
+      <UniqueIdentifier>{B611F0DA-50A3-4FA3-9DCA-D4EF75281D98}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BirdAdventures\BirdAdventures.Build.cs">
+      <Filter>Source\BirdAdventures</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BirdAdventures\BirdAdventures.cpp">
+      <Filter>Source\BirdAdventures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BirdAdventures\BirdAdventures.h">
+      <Filter>Source\BirdAdventures</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BirdAdventures\BirdAdventuresGameModeBase.cpp">
+      <Filter>Source\BirdAdventures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BirdAdventures\BirdAdventuresGameModeBase.h">
+      <Filter>Source\BirdAdventures</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

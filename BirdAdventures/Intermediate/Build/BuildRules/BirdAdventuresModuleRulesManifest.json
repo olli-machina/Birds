@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Olli\\ProjectRepos\\BirdAdventure\\BirdAdventures\\Source\\BirdAdventures\\BirdAdventures.Build.cs",
+		"E:\\Olli\\ProjectRepos\\BirdAdventure\\BirdAdventures\\Source\\BirdAdventures.Target.cs",
+		"E:\\Olli\\ProjectRepos\\BirdAdventure\\BirdAdventures\\Source\\BirdAdventuresEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

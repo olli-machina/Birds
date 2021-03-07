@@ -1,0 +1,2 @@
+E:\Olli\ProjectRepos\BirdAdventure\BirdAdventures\Intermediate\Build\Win64\UE4Editor\Development\BirdAdventures\Definitions.BirdAdventures.h
+E:\Olli\ProjectRepos\BirdAdventure\BirdAdventures\Source\BirdAdventures\BirdAdventures.h

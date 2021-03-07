@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BirdAdventures.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Olli\ProjectRepos\BirdAdventure\BirdAdventures\Intermediate\Build\Win64\BirdAdventuresEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Olli\ProjectRepos\BirdAdventure\BirdAdventures\Intermediate\Build\Win64\UE4Editor\Development\BirdAdventures\BirdAdventures.cpp.obj"
+"E:\Olli\ProjectRepos\BirdAdventure\BirdAdventures\Intermediate\Build\Win64\UE4Editor\Development\BirdAdventures\BirdAdventuresGameModeBase.cpp.obj"
+"E:\Olli\ProjectRepos\BirdAdventure\BirdAdventures\Intermediate\Build\Win64\UE4Editor\Development\BirdAdventures\BirdAdventures.init.gen.cpp.obj"
+"E:\Olli\ProjectRepos\BirdAdventure\BirdAdventures\Intermediate\Build\Win64\UE4Editor\Development\BirdAdventures\BirdAdventuresGameModeBase.gen.cpp.obj"
+"E:\Olli\ProjectRepos\BirdAdventure\BirdAdventures\Intermediate\Build\Win64\UE4Editor\Development\BirdAdventures\Default.rc2.res"
+/OUT:"E:\Olli\ProjectRepos\BirdAdventure\BirdAdventures\Intermediate\Build\Win64\UE4Editor\Development\BirdAdventures\UE4Editor-BirdAdventures.lib"
+/INCLUDE:IMPLEMENT_MODULE_BirdAdventures

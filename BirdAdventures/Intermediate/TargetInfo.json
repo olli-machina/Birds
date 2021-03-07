@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BirdAdventures",
+			"Path": "E:\\Olli\\ProjectRepos\\BirdAdventure\\BirdAdventures\\Source\\BirdAdventures.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BirdAdventuresEditor",
+			"Path": "E:\\Olli\\ProjectRepos\\BirdAdventure\\BirdAdventures\\Source\\BirdAdventuresEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
