@@ -1,0 +1,934 @@
+﻿Log file open, 03/18/21 14:42:29
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BirdAdventures
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.292900
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cleaning working directory: C:/Users/Olli/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Olli/Documents/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Engine.ini]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Engine.ini]
+[2021.03.18-20.42.30:398][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Engine.ini]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Engine.ini]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.18-20.42.30:398][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Engine.ini]
+[2021.03.18-20.42.30:398][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Engine.ini]
+[2021.03.18-20.42.30:426][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:426][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.18-20.42.30:426][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.18-20.42.30:426][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:426][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.18-20.42.30:426][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:426][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.18-20.42.30:426][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.18-20.42.30:427][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.18-20.42.30:428][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.18-20.42.30:428][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.18-20.42.30:428][  0]LogHAL: Display: Platform has ~ 32 GB [34307297280 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.18-20.42.30:428][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.18-20.42.30:428][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.18-20.42.30:428][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.18-20.42.30:429][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Scalability.ini]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.18-20.42.30:430][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Config/Windows/Engine.ini]
+[2021.03.18-20.42.30:431][  0]LogInit: Computer: SKEDADDLESKADOO
+[2021.03.18-20.42.30:431][  0]LogInit: User: Olli
+[2021.03.18-20.42.30:431][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.03.18-20.42.30:431][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.18-20.42.30:431][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2021.03.18-20.42.30:431][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.18-20.42.30:431][  0]LogMemory: Process Physical Memory: 133.74 MB used, 133.74 MB peak
+[2021.03.18-20.42.30:431][  0]LogMemory: Process Virtual Memory: 111.36 MB used, 111.36 MB peak
+[2021.03.18-20.42.30:431][  0]LogMemory: Physical Memory: 13466.10 MB used,  19251.89 MB free, 32717.99 MB total
+[2021.03.18-20.42.30:431][  0]LogMemory: Virtual Memory: 134200032.00 MB used,  17693.96 MB free, 134217728.00 MB total
+[2021.03.18-20.42.30:438][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.18-20.42.30:492][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.18-20.42.30:494][  0]LogInit: Using OS detected language (en-US).
+[2021.03.18-20.42.30:494][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.18-20.42.30:497][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.18-20.42.30:732][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.18-20.42.30:742][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.18-20.42.30:797][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.18-20.42.30:797][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.18-20.42.31:112][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.18-20.42.31:112][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.18-20.42.31:113][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.18-20.42.31:200][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.03.18-20.42.31:200][  0]LogD3D11RHI:       6052/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.18-20.42.31:203][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.18-20.42.31:203][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.18-20.42.31:203][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.18-20.42.31:214][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.18-20.42.31:214][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.18-20.42.31:214][  0]LogWindows: EnumDisplayDevices:
+[2021.03.18-20.42.31:214][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.03.18-20.42.31:214][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.03.18-20.42.31:214][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.03.18-20.42.31:215][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.03.18-20.42.31:215][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.18-20.42.31:216][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.03.18-20.42.31:216][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.03.18-20.42.31:216][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.03.18-20.42.31:216][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.03.18-20.42.31:274][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.18-20.42.31:274][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.18-20.42.31:274][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.18-20.42.31:313][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.18-20.42.31:315][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.18-20.42.31:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.18-20.42.31:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.18-20.42.31:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.18-20.42.31:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.18-20.42.31:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.18-20.42.31:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.18-20.42.31:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.18-20.42.31:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.18-20.42.31:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.18-20.42.31:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.18-20.42.31:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.18-20.42.31:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.18-20.42.31:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.18-20.42.31:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.18-20.42.31:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.18-20.42.31:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.18-20.42.31:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.18-20.42.31:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.18-20.42.31:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.18-20.42.31:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.18-20.42.31:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.18-20.42.31:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.18-20.42.31:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.18-20.42.31:929][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.18-20.42.31:940][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.18-20.42.32:022][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.18-20.42.32:022][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../ProjectRepos/Birds/BirdAdventures/Intermediate/Shaders/WorkingDirectory/9672/).
+[2021.03.18-20.42.32:022][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Olli/AppData/Local/Temp/UnrealShaderWorkingDir/64905A9D45AC290D26D7728AF2324B3E/'.
+[2021.03.18-20.42.32:023][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.18-20.42.32:023][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.18-20.42.33:035][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.18-20.42.33:095][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Olli/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.18-20.42.33:095][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Olli/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.18-20.42.33:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ProjectRepos/Birds/BirdAdventures/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.18-20.42.33:095][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.18-20.42.33:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../ProjectRepos/Birds/BirdAdventures/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.18-20.42.33:095][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.18-20.42.33:110][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.18-20.42.33:111][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.18-20.42.33:111][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.18-20.42.33:176][  0]LogDerivedDataCache: Speed tests for C:/Users/Olli/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2021.03.18-20.42.33:176][  0]LogDerivedDataCache: Display: Performance to C:/Users/Olli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=604.16MBs, RandomWriteSpeed=14.68MBs. Assigned SpeedClass 'Local'
+[2021.03.18-20.42.33:177][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Olli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.18-20.42.33:177][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.18-20.42.33:177][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.18-20.42.33:237][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.18-20.42.33:238][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.18-20.42.33:266][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2021.03.18-20.42.33:560][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.18-20.42.33:560][  0]LogInit: Active device profile: [000002746FD3BB00][00000274658F9200 49] Windows
+[2021.03.18-20.42.33:560][  0]LogInit: Profiles: [000002746FD3BB00][00000274658F9200 49] Windows, [000002746FD00600][0000027470511380 49] WindowsNoEditor, [000002746FD38500][00000274658FD4C0 49] WindowsServer, [000002746FD03700][0000027470515600 49] WindowsClient, [000002746FD3B500][0000027470519740 49] IOS, [000002746FD00E00][000002747051D880 49] iPadAir, [000002746FD38B00][0000027470525A00 49] iPadAir2, [000002746FCBD100][000002747052DCC0 49] IPadPro, [000002746FCBD200][0000027470529D00 49] iPadAir3, [000002746FD3B100][00000274705301C0 49] iPadAir4, [000002746FCBCA00][0000027470534340 49] iPadMini2, [000002746FD39000][00000274705384C0 49] iPadMini3, [000002746FCBE100][000002747053C640 49] iPadMini4, [000002746FD3A800][00000274705407C0 49] iPadMini5, [000002746FD02500][0000027470548A80 49] iPhone6, [000002746FD02600][0000027470544AC0 49] iPodTouch6, [000002746FCBC600][0000027470550D80 49] iPhone7, [000002746FCBC800][000002747054CDC0 49] iPodTouch7, [000002746FD03200][0000027470554F40 49] iPhone5S, [000002746FCBCE00][00000274705590C0 49] iPhone6Plus, [000002746FD00500][000002747055D240 49] iPhone6S, [000002746FCBFD00][00000274705613C0 49] iPhone6SPlus, [000002746FD03900][0000027470565540 49] iPhone7Plus, [000002746FCBF400][0000027470521680 49] iPhoneSE, [000002746FD00800][00000274705697C0 49] iPhone8, [000002746FCBD600][000002747056D900 49] iPhone8Plus, [000002746FD01200][0000027470575A80 49] iPhoneX, [000002746FCBEB00][0000027470579C00 49] iPhoneXS, [000002746FD03F00][000002747057C0C0 49] iPhoneXSMax, [000002746FCBF100][0000027470580240 49] iPhoneXR, [000002746FD02E00][00000274705843C0 49] iPhone11, [000002746FCBC300][0000027470588540 49] iPhone11Pro, [000002746FD00B00][000002747058C6C0 49] iPhone11ProMax, [000002746FCBFE00][0000027470590840 49] iPhoneSE2, [000002746FD00F00][00000274705949C0 49] iPhone12Mini, [000002746FCBEE00][0000027470598B40 49] iPhone12, [000002746FD00200][000002747059CCC0 49] iPhone12Pro, [000002746FCBF800][00000274705A0E40 49] iPhone12ProMax, [000002746FD02200][00000274705A4FC0 49] iPadPro105, [000002746FCBDA00][00000274705A9140 49] iPadPro129, [000002746FD02700][00000274705AD2C0 49] iPadPro97, [000002746FCBEC00][00000274705B1440 49] iPadPro2_129, [000002746FD01F00][00000274705B55C0 49] iPad5, [000002746FCBC200][0000027470571700 49] iPad6, [000002746FD03600][00000274705B9840 49] iPad7, [000002746FCBD800][00000274705BD980 49] iPad8, [000002746FD01100][00000274705C1AC0 49] iPadPro11, [000002746FCBDC00][00000274705C9C40 49] iPadPro2_11, [000002746FD03100][00000274705CC100 49] iPadPro3_129, [000002746FCBDE00][00000274705D0280 49] iPadPro4_129, [000002746FD03800][00000274705D4400 49] AppleTV, [000002746FCBE600][00000274705D8580 49] AppleTV4K, [000002746FD00D00][00000274705DC700 49] TVOS, [000002746FCBE500][00000274705E0880 49] Mac, [000002746FD03300][00000274705E4A00 49] MacClient, [000002746FCBD400][00000274705E8B80 49] MacNoEditor, [000002746FD00A00][00000274705ECD00 49] MacServer, [000002746FCBC500][00000274705F0E80 49] Linux, [000002746FD01000][00000274705F5000 49] LinuxNoEditor, [000002746FCBC900][00000274705F9180 49] LinuxAArch64NoEditor, [000002746FD01A00][00000274705FD300 49] LinuxClient, [000002746FCBE000][0000027470601480 49] LinuxAArch64Client, [000002746FD00400][0000027470605600 49] LinuxServer, [000002746FCBCB00][00000274705C5740 49] LinuxAArch64Server, [000002746FD02B00][0000027470609880 49] Android, [000002746FD39800][000002747060D9C0 49] Android_Low, [000002746FD89900][0000027470611B00 49] Android_Mid, [000002746FD3B300][0000027470619C80 49] Android_High, [000002746FD89B00][000002747061C140 49] Android_Default, [000002746FD39200][00000274706202C0 49] Android_Adreno4xx, [000002746FD89500][0000027470624440 49] Android_Adreno5xx_Low, [000002746FD3B700][00000274706285C0 49] Android_Adreno5xx, [000002746FD89C00][000002747062C740 49] Android_Adreno6xx, [000002746FD3AF00][00000274706308C0 49] Android_Adreno6xx_Vulkan, [000002746FD88200][0000027470634A40 49] Android_Mali_T6xx, [000002746FD38200][0000027470638BC0 49] Android_Mali_T7xx, [000002746FD8A200][000002747063CD40 49] Android_Mali_T8xx, [000002746FD3BC00][0000027470640EC0 49] Android_Mali_G71, [000002746FD88400][0000027470645040 49] Android_Mali_G72, [000002746FD38900][00000274706491C0 49] Android_Mali_G72_Vulkan, [000002746FD89F00][000002747064D340 49] Android_Mali_G76, [000002746FD38C00][00000274706514C0 49] Android_Mali_G76_Vulkan, [000002746FD88100][0000027470655640 49] Android_Mali_G77, [000002746FD3BD00][00000274706597C0 49] Android_Mali_G77_Vulkan, [000002746FD89200][0000027470615900 49] Android_Vulkan_SM5, [000002746FD03000][000002747065DA40 49] Android_PowerVR_G6xxx, [000002746FCBEF00][0000027470661B80 49] Android_PowerVR_GT7xxx, [000002746FD01700][0000027470669D00 49] Android_PowerVR_GE8xxx, [000002746FCBFB00][000002747066C1C0 49] Android_PowerVR_GM9xxx, [000002746FD00300][0000027470670340 49] Android_PowerVR_GM9xxx_Vulkan, [000002746FCBD500][00000274706744C0 49] Android_TegraK1, [000002746FD01B00][0000027470678640 49] Android_Unknown_Vulkan, [000002746FCBF000][000002747067C7C0 49] Lumin, [000002746FD02300][0000027470680940 49] Lumin_Desktop, [000002746FCBDF00][0000027470684AC0 49] HoloLens, 
+[2021.03.18-20.42.33:693][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.18-20.42.33:693][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.18-20.42.33:693][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.18-20.42.33:693][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.18-20.42.33:693][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.18-20.42.33:737][  0]LogNetVersion: BirdAdventures 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2853339530)
+[2021.03.18-20.42.34:259][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.18-20.42.34:346][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.086199 seconds
+[2021.03.18-20.42.34:353][  0]LogUObjectArray: 16727 objects as part of root set at end of initial load.
+[2021.03.18-20.42.34:353][  0]LogUObjectAllocator: 4183232 out of 0 bytes used by permanent object pool.
+[2021.03.18-20.42.34:353][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.18-20.42.34:709][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.18-20.42.34:715][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.18-20.42.35:026][  0]SourceControl: Source control is disabled
+[2021.03.18-20.42.35:026][  0]SourceControl: Source control is disabled
+[2021.03.18-20.42.35:031][  0]SourceControl: Source control is disabled
+[2021.03.18-20.42.35:039][  0]SourceControl: Source control is disabled
+[2021.03.18-20.42.35:074][  0]SourceControl: Source control is disabled
+[2021.03.18-20.42.35:083][  0]LogUProjectInfo: Found projects:
+[2021.03.18-20.42.35:280][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.18-20.42.35:307][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.18-20.42.35:307][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.18-20.42.35:473][  0]LogOcInput: OculusInput pre-init called
+[2021.03.18-20.42.35:486][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.18-20.42.35:487][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.18-20.42.35:497][  0]LogCollectionManager: Loaded 0 collections in 0.000970 seconds
+[2021.03.18-20.42.35:572][  0]LogFileCache: Scanning file cache for directory 'E:/Olli/ProjectRepos/Birds/BirdAdventures/Saved/Collections/' took 0.00s
+[2021.03.18-20.42.35:572][  0]LogFileCache: Scanning file cache for directory 'E:/Olli/ProjectRepos/Birds/BirdAdventures/Content/Developers/Olli/Collections/' took 0.00s
+[2021.03.18-20.42.35:572][  0]LogFileCache: Scanning file cache for directory 'E:/Olli/ProjectRepos/Birds/BirdAdventures/Content/Collections/' took 0.00s
+[2021.03.18-20.42.35:572][  0]LogEngine: Initializing Engine...
+[2021.03.18-20.42.35:573][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.18-20.42.35:574][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.18-20.42.35:699][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.18-20.42.35:708][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.18-20.42.35:726][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.18-20.42.35:732][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.18-20.42.35:732][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.18-20.42.35:732][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.18-20.42.35:732][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.18-20.42.35:732][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.18-20.42.35:732][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.18-20.42.35:732][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.18-20.42.35:732][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.18-20.42.35:732][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.18-20.42.35:732][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.18-20.42.35:732][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.18-20.42.35:732][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.18-20.42.35:758][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.18-20.42.35:758][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.18-20.42.35:812][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Audio Device)
+[2021.03.18-20.42.35:816][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.18-20.42.35:818][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.18-20.42.35:819][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.18-20.42.35:820][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.18-20.42.35:820][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.18-20.42.35:820][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.18-20.42.35:821][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.18-20.42.35:821][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.18-20.42.35:821][  0]LogInit: FAudioDevice initialized.
+[2021.03.18-20.42.35:821][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.18-20.42.35:821][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.18-20.42.36:081][  0]LogDerivedDataCache: Saved boot cache 0.26s 77MB C:/Users/Olli/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.18-20.42.36:087][  0]LogInit: Texture streaming: Enabled
+[2021.03.18-20.42.36:104][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.18-20.42.36:109][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.18-20.42.36:109][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.18-20.42.36:111][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.18-20.42.36:184][  0]LogInit: Transaction tracking system initialized
+[2021.03.18-20.42.36:213][  0]BlueprintLog: New page: Editor Load
+[2021.03.18-20.42.36:303][  0]LocalizationService: Localization service is disabled
+[2021.03.18-20.42.36:342][  0]TimingProfiler: Initialize
+[2021.03.18-20.42.36:342][  0]TimingProfiler: OnSessionChanged
+[2021.03.18-20.42.36:342][  0]LoadingProfiler: Initialize
+[2021.03.18-20.42.36:342][  0]LoadingProfiler: OnSessionChanged
+[2021.03.18-20.42.36:342][  0]NetworkingProfiler: Initialize
+[2021.03.18-20.42.36:342][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.18-20.42.36:342][  0]MemoryProfiler: Initialize
+[2021.03.18-20.42.36:342][  0]MemoryProfiler: OnSessionChanged
+[2021.03.18-20.42.36:530][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.18-20.42.36:530][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.18-20.42.36:729][  0]LogFileCache: Scanning file cache for directory 'E:/Olli/ProjectRepos/Birds/BirdAdventures/Content/' took 0.02s
+[2021.03.18-20.42.36:729][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.18-20.42.36:734][  0]SourceControl: Source control is disabled
+[2021.03.18-20.42.36:734][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.772
+[2021.03.18-20.42.36:734][  0]Cmd: MAP LOAD FILE="../../../../../ProjectRepos/Birds/BirdAdventures/Content/Scenes/TryingLandscape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.18-20.42.36:740][  0]LightingResults: New page: Lighting Build
+[2021.03.18-20.42.36:741][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-20.42.36:741][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-20.42.36:741][  0]MapCheck: New page: Map Check
+[2021.03.18-20.42.36:741][  0]LightingResults: New page: Lighting Build
+[2021.03.18-20.42.36:751][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.03.18-20.42.36:928][  0]LogBlueprint: Warning: [AssetLog] E:\Olli\ProjectRepos\Birds\BirdAdventures\Content\Animations\Enemy1BP.uasset: [Compiler] Movement to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.03.18-20.42.36:929][  0]LogBlueprint: Warning: [AssetLog] E:\Olli\ProjectRepos\Birds\BirdAdventures\Content\Animations\Enemy1BP.uasset: [Compiler] Idle to Movement  will never be taken, please connect something to  Can Enter Transition
+[2021.03.18-20.42.47:397][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TryingLandscape'.
+[2021.03.18-20.42.47:398][  0]LogAIModule: Creating AISystem for world TryingLandscape
+[2021.03.18-20.42.47:400][  0]LogMaterial: Display: Material /Game/AdvancedVillagePack/Materials/M_Uber.M_Uber needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.03.18-20.42.47:427][  0]LogMaterial: Display: Missing cached shader map for material M_Uber, compiling. 
+[2021.03.18-20.42.47:515][  0]MapCheck: Warning: M_Uber Material /Game/AdvancedVillagePack/Materials/M_Uber.M_Uber was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.03.18-20.42.49:415][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.03.18-20.42.49:416][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.03.18-20.42.49:417][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.18-20.42.49:472][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.03.18-20.42.49:472][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.18-20.42.49:473][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.485ms to complete.
+[2021.03.18-20.42.49:490][  0]LogFileHelpers: Loading map 'TryingLandscape' took 12.757
+[2021.03.18-20.42.49:496][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.534
+[2021.03.18-20.42.49:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.18-20.42.49:786][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.18-20.42.49:801][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.18-20.42.49:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.18-20.42.49:872][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0210 seconds. Added 3594 classes and 854 folders.
+[2021.03.18-20.42.49:877][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.03.18-20.42.49:882][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.18-20.42.49:882][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:882][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.18-20.42.49:882][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.18-20.42.49:884][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.18-20.42.49:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.18-20.42.49:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.18-20.42.49:887][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.18-20.42.49:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.18-20.42.49:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.03.18-20.42.49:889][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.18-20.42.49:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.18-20.42.49:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.03.18-20.42.49:891][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.18-20.42.49:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.18-20.42.49:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.03.18-20.42.49:894][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.18-20.42.49:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.18-20.42.49:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.03.18-20.42.49:897][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.18-20.42.49:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.18-20.42.49:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000181
+[2021.03.18-20.42.49:900][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.18-20.42.49:900][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:900][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.18-20.42.49:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000188
+[2021.03.18-20.42.49:902][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.18-20.42.49:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.18-20.42.49:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000198
+[2021.03.18-20.42.49:904][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.18-20.42.49:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.18-20.42.49:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000207
+[2021.03.18-20.42.49:906][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.18-20.42.49:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.18-20.42.49:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000218
+[2021.03.18-20.42.49:907][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.18-20.42.49:907][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:907][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.18-20.42.49:908][  0]LogPakFile: OnPakFileMounted2Time == 0.000229
+[2021.03.18-20.42.49:909][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.18-20.42.49:909][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:909][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.18-20.42.49:909][  0]LogPakFile: OnPakFileMounted2Time == 0.000236
+[2021.03.18-20.42.49:911][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.18-20.42.49:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.18-20.42.49:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000242
+[2021.03.18-20.42.49:913][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.18-20.42.49:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.18-20.42.49:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000251
+[2021.03.18-20.42.49:915][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.18-20.42.49:915][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:915][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.18-20.42.49:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000259
+[2021.03.18-20.42.49:918][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.18-20.42.49:918][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.18-20.42.49:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000272
+[2021.03.18-20.42.49:920][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.18-20.42.49:920][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.18-20.42.49:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000283
+[2021.03.18-20.42.49:922][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.18-20.42.49:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.18-20.42.49:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000294
+[2021.03.18-20.42.49:925][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.18-20.42.49:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.18-20.42.49:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000302
+[2021.03.18-20.42.49:927][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.18-20.42.49:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.18-20.42.49:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000313
+[2021.03.18-20.42.49:930][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.18-20.42.49:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.18-20.42.49:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000328
+[2021.03.18-20.42.49:933][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.18-20.42.49:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.18-20.42.49:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000337
+[2021.03.18-20.42.49:935][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.18-20.42.49:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.18-20.42.49:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000350
+[2021.03.18-20.42.49:938][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.18-20.42.49:938][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:938][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.18-20.42.49:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000362
+[2021.03.18-20.42.49:940][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.18-20.42.49:940][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.18-20.42.49:940][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.18-20.42.49:940][  0]LogPakFile: OnPakFileMounted2Time == 0.000372
+[2021.03.18-20.42.50:117][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.03.18-20.42.50:445][  0]LogSlate: Took 0.000764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.18-20.42.50:453][  0]LogSlate: Took 0.000551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.18-20.42.50:460][  0]LogSlate: Took 0.001032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.18-20.42.50:760][  0]LogRenderer: Reallocating scene render targets to support 1124x604 Format 10 NumSamples 1 (Frame:1).
+[2021.03.18-20.42.51:113][  0]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.18-20.42.51:176][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.03.18-20.42.51:177][  0]LogLoad: (Engine Initialization) Total time: 22.22 seconds
+[2021.03.18-20.42.51:177][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.18-20.42.51:177][  0]LogInit: First time updating LLM stats...
+[2021.03.18-20.42.51:331][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.18-20.42.51:407][  1]LogAssetRegistry: Asset discovery search completed in 18.1425 seconds
+[2021.03.18-20.42.51:409][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.18-20.43.05:524][ 76]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2021.03.18-20.43.27:787][846]LogContentBrowser: Deferred new asset file creation: TryingLandscape1
+[2021.03.18-20.43.27:837][846]LogContentBrowser: Creating deferred item: TryingLandscape1
+[2021.03.18-20.43.32:891][211]LogContentBrowser: Attempting asset rename: TryingLandscape1 -> EnemyGameplay
+[2021.03.18-20.43.33:385][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.03.18-20.43.33:533][211]LogContentBrowser: End creating deferred item TryingLandscape1
+[2021.03.18-20.43.35:480][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.03.18-20.43.36:600][352]LogSlate: Window 'Save Content' being destroyed
+[2021.03.18-20.43.36:616][352]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.18-20.43.36:636][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/EnemyGameplay" FILE="../../../../../ProjectRepos/Birds/BirdAdventures/Content/Scenes/EnemyGameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.18-20.43.36:772][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.03.18-20.43.37:371][352]LogSavePackage: Moving '../../../../../ProjectRepos/Birds/BirdAdventures/Saved/EnemyGameplayD56F6EDC44A11ED60540748CEDA72243.tmp' to '../../../../../ProjectRepos/Birds/BirdAdventures/Content/Scenes/EnemyGameplay.umap'
+[2021.03.18-20.43.37:445][352]LogFileHelpers: Saving map 'EnemyGameplay' took 0.810
+[2021.03.18-20.43.37:499][352]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/EnemyGameplay.EnemyGameplay
+[2021.03.18-20.43.37:500][352]Cmd: MAP LOAD FILE="../../../../../ProjectRepos/Birds/BirdAdventures/Content/Scenes/EnemyGameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.18-20.43.37:500][352]LightingResults: New page: Lighting Build
+[2021.03.18-20.43.37:500][352]LoadErrors: New page: Loading map: EnemyGameplay.umap
+[2021.03.18-20.43.37:533][352]LogWorld: UWorld::CleanupWorld for TryingLandscape, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-20.43.37:533][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-20.43.37:534][352]MapCheck: New page: Map Check
+[2021.03.18-20.43.37:534][352]LightingResults: New page: Lighting Build
+[2021.03.18-20.43.37:545][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.18-20.43.37:568][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.03.18-20.43.37:570][352]LogAudio: Display: Audio Device (ID: 1) registered with world 'EnemyGameplay'.
+[2021.03.18-20.43.37:878][352]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.18-20.43.37:879][352]LogAIModule: Creating AISystem for world EnemyGameplay
+[2021.03.18-20.43.37:902][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.03.18-20.43.37:924][352]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.18-20.43.37:924][352]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2021.03.18-20.43.37:924][352]LogFileHelpers: Loading map 'EnemyGameplay' took 0.424
+[2021.03.18-20.43.37:956][352]AssetCheck: New page: Asset Save: EnemyGameplay
+[2021.03.18-20.43.37:956][352]LogContentValidation: Display: Validating World /Game/Scenes/EnemyGameplay.EnemyGameplay
+[2021.03.18-20.43.40:187][598]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.03.18-20.43.42:905][858]LogEditorViewport: Clicking on Actor (LMB): Player_Blueprint_C (Player_Blueprint)
+[2021.03.18-20.43.44:882][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CuteBird/Player_Blueprint.Player_Blueprint
+[2021.03.18-20.43.45:172][987]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.03.18-20.43.46:331][987]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.18-20.43.46:399][988]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.18-20.43.48:099][141]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-20.43.48:099][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-20.43.52:333][445]LogEditorViewport: Clicking on Actor (LMB): BP_Whispa_D_C (Enemy1)
+[2021.03.18-20.45.41:937][647]MapCheck: New page: Map Check
+[2021.03.18-20.45.41:954][647]LightingResults: New page: Lighting Build - Mar 18, 2021, 8:45:41 AM
+[2021.03.18-20.45.41:999][647]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.03.18-20.45.42:000][647]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.03.18-20.45.42:001][647]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.03.18-20.45.42:006][647]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.03.18-20.45.42:006][647]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.03.18-20.45.42:011][647]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.03.18-20.45.42:013][647]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.03.18-20.45.42:013][647]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.03.18-20.45.42:071][647]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.18-20.45.42:167][647]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.18-20.45.42:181][647]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.18-20.45.42:696][647]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.18-20.45.42:696][647]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9672
+[2021.03.18-20.45.49:436][647]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.03.18-20.45.49:605][647]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.18-20.45.49:605][647]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.18-20.45.49:605][647]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.18-20.45.49:605][647]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.18-20.45.49:605][647]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.18-20.45.50:129][647]LogEditorBuildUtils: Build time 0:08
+[2021.03.18-20.45.50:133][647]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeTrunks, compiling. 
+[2021.03.18-20.45.50:136][647]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeTrunks, compiling. 
+[2021.03.18-20.45.50:201][647]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.03.18-20.45.50:201][647]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.03.18-20.45.50:201][647]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.03.18-20.45.50:201][647]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.03.18-20.45.54:880][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.03.18-20.46.15:882][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Monsters_Darkness_Pack/Blueprints/BP_Cute_Spider_B.BP_Cute_Spider_B
+[2021.03.18-20.46.18:797][962]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.18-20.46.18:797][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.18-20.46.18:900][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Monsters_Darkness_Pack/Blueprints/BP_Cute_Spider_B.BP_Cute_Spider_B
+[2021.03.18-20.46.23:423][222]LogRenderer: Reallocating scene render targets to support 1124x708 Format 10 NumSamples 1 (Frame:1).
+[2021.03.18-20.48.53:299][623]LogSlate: Took 0.000426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.03.18-20.52.50:359][390]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.18-20.52.50:472][390]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.18-20.52.52:638][481]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2021.03.18-20.52.52:639][481]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.18-20.53.16:833][971]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.18-20.53.16:843][971]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.03.18-20.53.16:905][971]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.03.18-20.53.25:191][363]LogContentBrowser: Attempting asset rename: NewBlueprint -> SpiderAI
+[2021.03.18-20.53.25:199][363]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.03.18-20.54.05:104][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/SpiderAI.SpiderAI
+[2021.03.18-20.54.32:644][867]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2021.03.18-20.54.33:730][867]LogSavePackage: Moving '../../../../../ProjectRepos/Birds/BirdAdventures/Saved/EnemyGameplay_Auto17B3A9BB4453B37D10C90C882AB944175.tmp' to '../../../../../ProjectRepos/Birds/BirdAdventures/Saved/Autosaves/Game/Scenes/EnemyGameplay_Auto1.umap'
+[2021.03.18-20.54.33:744][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/EnemyGameplay' took 1.155
+[2021.03.18-20.54.33:744][867]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.155
+[2021.03.18-20.54.33:745][867]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Monsters_Darkness_Pack/Blueprints/BP_Cute_Spider_B] ([1] browsable assets)...
+[2021.03.18-20.54.33:775][867]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Monsters_Darkness_Pack/Blueprints/BP_Cute_Spider_B.BP_Cute_Spider_B]
+[2021.03.18-20.54.33:775][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monsters_Darkness_Pack/Blueprints/BP_Cute_Spider_B]
+[2021.03.18-20.54.33:807][867]LogSavePackage: Moving '../../../../../ProjectRepos/Birds/BirdAdventures/Saved/BP_Cute_Spider_B_Auto17686B69E457641259DFF1BA2E59F3AF4.tmp' to '../../../../../ProjectRepos/Birds/BirdAdventures/Saved/Autosaves/Game/Monsters_Darkness_Pack/Blueprints/BP_Cute_Spider_B_Auto1.uasset'
+[2021.03.18-20.54.33:808][867]LogFileHelpers: Auto-saving content packages took 0.064
+[2021.03.18-20.55.08:639][971]Job is a success!
+[2021.03.18-20.55.09:408][972]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.306s
+[2021.03.18-20.55.09:408][972]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.03.18-20.55.09:408][972]LogVolumetricLightmapImport:      BrickData (all levels) 7.9Mb
+[2021.03.18-20.55.09:408][972]LogVolumetricLightmapImport:      Bricks at depth
+[2021.03.18-20.55.09:408][972]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2021.03.18-20.55.09:408][972]LogVolumetricLightmapImport:          1: 5.6% covering 17.4% of volume
+[2021.03.18-20.55.09:408][972]LogVolumetricLightmapImport:          2: 93.9% covering 4.6% of volume
+[2021.03.18-20.55.09:408][972]LogVolumetricLightmapImport:      Bricks in each level
+[2021.03.18-20.55.09:408][972]LogVolumetricLightmapImport:          EnemyGameplay 			 1599 bricks 	 100.0% (Persistent Level)
+[2021.03.18-20.56.08:659][972]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 8192X8192)
+[2021.03.18-20.56.08:661][972]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 8192X8192)
+[2021.03.18-20.56.08:661][972]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 8192X8192)
+[2021.03.18-20.56.08:661][972]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 8192X8192)
+[2021.03.18-20.56.08:661][972]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 8192X8192)
+[2021.03.18-20.56.08:661][972]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 4096X4096)
+[2021.03.18-20.56.08:661][972]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 8192X8192)
+[2021.03.18-20.56.08:661][972]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 4096X4096)
+[2021.03.18-20.56.08:661][972]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 4096X4096)
+[2021.03.18-20.56.08:661][972]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 4096X4096)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 64X64)
+[2021.03.18-20.56.08:662][972]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 64X64)
